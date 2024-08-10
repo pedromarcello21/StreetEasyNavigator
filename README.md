@@ -1,6 +1,3 @@
-Sure! Here's the README in Markdown format with the updated name:
-
-```markdown
 # StreetEasy Navigator
 
 ## Overview
@@ -60,11 +57,7 @@ An example output Excel file might look like:
 
 - **Bot Detection:** The script includes measures to avoid bot detection, but in some cases, it may still be blocked. If this happens, try running the script again or implementing additional anti-bot strategies.
 
-## Contributing
 
-Feel free to contribute to this project by opening an issue or submitting a pull request.
-
-## License
 
 This project is licensed under the MIT License.
 ```
